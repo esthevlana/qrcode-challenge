@@ -21,7 +21,7 @@ This challenge is simple but was amazing for training my HTML and CSS skills.
 
 ### Screenshot
 
-![](./images/screenshot.png)
+![](/images/screenshot.png)
 
 ### Links
 
