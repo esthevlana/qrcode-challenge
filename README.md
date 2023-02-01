@@ -25,8 +25,8 @@ This challenge is simple but was amazing for training my HTML and CSS skills.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Repositório](https://github.com/esthevlana/qrcode-challenge)
+- Live Site URL: [Página](https://esthevlana.github.io/qrcode-challenge/)
 
 ## My process
 
